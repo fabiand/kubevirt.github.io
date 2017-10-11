@@ -3,7 +3,19 @@
 
 @import "{{ site.theme }}";
 
+/*
+ * For cayman
+ */
 .page-header {
   background-color: #718cff;
   background-image: unset;
+  padding: 2em 6em;
+}
+
+.page-header .btn {
+display: none;
+}
+
+.project-tagline {
+margin-bottom: unset;
 }

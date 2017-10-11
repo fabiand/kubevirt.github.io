@@ -1,3 +1,5 @@
+[Run](run) | [Contribute](contrib)
+
 # Run VMs on Kubernetes
 
 The high level goal of the project is to build a Kubernetes add-on to enable
@@ -25,27 +27,7 @@ use-cases](use-cases).
 
 * [Code of conduct](conduct)
 
-# Getting started
-
-You can get started in several areas - Do you want to start using KubeVirt?
-Or rather start coding? Take a look below to see where you can get started.
-
-## As a user
-
-If you have [minikube](https://github.com/kubernetes/minikube/) setup already,
-then you can start right away by calling:
-
-```bash
-curl run.kubevirt.io/demo.sh | bash
-```
-
-Once it is deployed, take a look at the user documentation
-<https://kubevirt.gitbooks.io/user-guide/> to learn how to use KubeVirt.
-
-Otherwise you can read about how to setup `minikube` and deploy KubeVirt at
-<https://github.com/kubevirt/demo>.
-
-## Connect
+# Connect
 
 Don't hesitate to reach out if you are getting stuck, or are looking for a
 feature, do so by using one of our communication channels:
@@ -58,7 +40,7 @@ feature, do so by using one of our communication channels:
   [View](https://calendar.google.com/calendar/embed?src=18pc0jur01k8f2cccvn5j04j1g%40group.calendar.google.com&ctz=Etc%2FGMT)
   (18pc0jur01k8f2cccvn5j04j1g@group.calendar.google.com)
 
-## Contribute, source, and developers
+# Contribute, source, and developers
 
 There are several ways how you can contribute, you can learn about them at
 our [contributing guide](contrib) and a detailed contribution
